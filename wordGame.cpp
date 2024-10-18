@@ -5,7 +5,7 @@ using namespace std ;
 int main() {
 
 	string name ;
-
+	// asking for input
 	cout << "Enter the name: " << endl ;
 	cin >> name ;
 
